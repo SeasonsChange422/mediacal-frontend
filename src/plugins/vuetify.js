@@ -1,3 +1,9 @@
+/*
+ * @Author: Dhx
+ * @Date: 2025-02-01 14:58:55
+ * @Description: 
+ * @FilePath: \medical-frontend\src\plugins\vuetify.js
+ */
 /**
  * plugins/vuetify.js
  *
@@ -14,6 +20,6 @@ import { createVuetify } from 'vuetify'
 // https://vuetifyjs.com/en/introduction/why-vuetify/#feature-guides
 export default createVuetify({
   theme: {
-    defaultTheme: 'dark',
+    // defaultTheme: 'bright',
   },
 })
